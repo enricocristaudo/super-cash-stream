@@ -15,7 +15,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.Properties;
 import java.util.concurrent.CountDownLatch;
 
-public class supercashstream {
+public class SuperCashStream {
 
     public static void main(String[] args) {
         Properties props = new Properties();
